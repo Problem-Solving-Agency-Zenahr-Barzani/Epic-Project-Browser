@@ -1,4 +1,4 @@
-# Epic-Project-Browser
+# Epic Project Browser
 
 ![](./Capture.JPG)
 
