@@ -2,6 +2,8 @@
 
 ![](./Capture.JPG)
 
+# Download latest release
+
 [Download Link (Installation Setup)](https://github.com/Problem-Solving-Agency-Zenahr-Barzani/Epic-Project-Browser/releases/download/0.1.0-alpha/Epic_Project_Browser_Setup_0.1.0-alpha.zip)
 
 # Features
